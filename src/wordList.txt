@@ -1,0 +1,1 @@
+["Emperor, "Cowboy", "Paladin", "President", "American", "Comedy", "Computer", "Clock", "Controllor", "Headphones", "Watch", "Bottle", "Video_Game"]
